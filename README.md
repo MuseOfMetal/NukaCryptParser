@@ -1,1 +1,1 @@
-# NukaCryptParser
+# Project for own needs
